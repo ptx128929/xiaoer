@@ -6,8 +6,8 @@ public class FileUtil {
 	*/ 
 	public static String getExtendName(String fileName){
 		fileName.substring('.', 0);
-		return fileName;     
-		
+		return fileName;      
+		 
 		
 	
 	}
